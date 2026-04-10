@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cluedo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0984e47c9e8e62941d69143b526e4dac2cb0507")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cluedo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cluedo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

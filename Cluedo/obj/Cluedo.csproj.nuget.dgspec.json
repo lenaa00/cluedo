@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenal\\OneDrive\\Desktop\\cluedo\\Cluedo\\Cluedo.csproj": {}
+    "C:\\Users\\travail\\cluedo\\Cluedo\\Cluedo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenal\\OneDrive\\Desktop\\cluedo\\Cluedo\\Cluedo.csproj": {
+    "C:\\Users\\travail\\cluedo\\Cluedo\\Cluedo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenal\\OneDrive\\Desktop\\cluedo\\Cluedo\\Cluedo.csproj",
+        "projectUniqueName": "C:\\Users\\travail\\cluedo\\Cluedo\\Cluedo.csproj",
         "projectName": "Cluedo",
-        "projectPath": "C:\\Users\\lenal\\OneDrive\\Desktop\\cluedo\\Cluedo\\Cluedo.csproj",
-        "packagesPath": "C:\\Users\\lenal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenal\\OneDrive\\Desktop\\cluedo\\Cluedo\\obj\\",
+        "projectPath": "C:\\Users\\travail\\cluedo\\Cluedo\\Cluedo.csproj",
+        "packagesPath": "C:\\Users\\travail\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\travail\\cluedo\\Cluedo\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lenal\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\travail\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
